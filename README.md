@@ -49,4 +49,4 @@ MANOVICH, Lev. "El Software toma el mando." [En castellà] Barcelona: Editorial 
 
 ¿Qué es la animación con CGI y cómo funciona? - Disponible a:https://udit.es/actualidad/que-es-la-animacion-con-cgi-y-como-funciona/
 
-Entretenimiento interactivo - Disponbiel a:https://es.wikipedia.org/wiki/Entretenimiento_interactivo
+Entretenimiento interactivo - Disponible a:https://es.wikipedia.org/wiki/Entretenimiento_interactivo
